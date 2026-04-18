@@ -1,4 +1,4 @@
-# 🛒 Grocery Store Management System (MySQL)
+# 🛒 SQL-Based Grocery Store Management System (MySQL)
 
 ## 📌 Project Overview  
 The Grocery Store Management System is a SQL-based project designed to manage and analyze the day-to-day operations of a grocery store. It helps in organizing data related to customers, products, orders, employees, and suppliers while generating meaningful insights for business decision-making.
