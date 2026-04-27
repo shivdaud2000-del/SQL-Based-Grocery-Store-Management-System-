@@ -1,3 +1,5 @@
+“Developed a SQL-based grocery store management system to handle inventory, sales, and customer data, with optimized queries and automated processes for real-time business insights.”
+
 # 🛒 SQL-Based Grocery Store Management System (MySQL)
 
 ## 📌 Project Overview  
